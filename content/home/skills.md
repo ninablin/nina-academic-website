@@ -13,21 +13,23 @@ subtitle = ""
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-
+#      <i class="fab fa-bootstrap"></i>
+#     <i class="fab fa-node"></i>
+# <i class="fab fa-react"></i>
  [[feature]]
-  icon = "fa-html5"
+  icon = "html5"
   icon_pack = "fab"
   name = "css"
 #  description = "90%" 
 
  [[feature]]
-  icon = "fa-css3-alt"
+  icon = "css3-alt"
   icon_pack = "fab"
   name = "html"
 #  description = "90%" 
 
  [[feature]]
-  icon = "fa-js-square"
+  icon = "js-square"
   icon_pack = "fab"
   name = "javascript"
 #  description = "90%" 
