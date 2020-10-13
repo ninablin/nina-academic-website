@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Los Angeles, California"
   date_start = "2020-10-01"
   date_end = ""
-  description = "HHMI & NSF Undergraduate Researcher at the Ozcan Research Group. Mentor: Jingxi Li"
+  description = """
   Responsibilities include:
   
   * Deep Learning
