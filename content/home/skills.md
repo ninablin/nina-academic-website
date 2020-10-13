@@ -14,23 +14,36 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-[[feature]]
-  icon = "fa-python"
+ [[feature]]
+  icon = "fa-html5"
   icon_pack = "fab"
-  name = "python"
-  description = "90%"
-  
+  name = "css"
+#  description = "90%" 
+
+ [[feature]]
+  icon = "fa-css3-alt"
+  icon_pack = "fab"
+  name = "html"
+#  description = "90%" 
+
+ [[feature]]
+  icon = "fa-js-square"
+  icon_pack = "fab"
+  name = "javascript"
+#  description = "90%" 
+
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+#  description = "100%"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "10%"
+#  description = "10%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
