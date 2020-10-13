@@ -43,7 +43,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:bingsz1370@ucla.edu"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
