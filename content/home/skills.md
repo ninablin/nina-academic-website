@@ -16,6 +16,12 @@ subtitle = ""
 #      <i class="fab fa-bootstrap"></i>
 #     <i class="fab fa-node"></i>
 # <i class="fab fa-react"></i>
+#. <i class="fab fa-vuejs"></i>
+#   <i class="fab fa-python"></i>
+#   <i class="fab fa-cuttlefish"></i>
+#   <i class="fab fa-java"></i>
+# <i class="fab fa-git"></i>
+
  [[feature]]
   icon = "html5"
   icon_pack = "fab"
@@ -41,11 +47,6 @@ subtitle = ""
   name = "Statistics"
 #  description = "100%"  
   
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-#  description = "10%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
