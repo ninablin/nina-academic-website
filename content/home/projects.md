@@ -26,11 +26,11 @@ subtitle = "Corporate & Personal projects"
      tag = "*"
   
    [[content.filter_button]]
-     name = "Deep Learning"
+     name = "Mathematics & Data Science"
      tag = "Deep Learning"
   
    [[content.filter_button]]
-     name = "Other"
+     name = "Web Development & Computer Science"
      tag = "Demo"
 
 [design]
