@@ -19,13 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "HHMI & NSF Undergraduate Researcher"
-  company = "UCLA Henry Samueli School of Engineering and Applied Science - the Ozcan Research Group"
+  company = ""
   company_url = "https://innovate.ee.ucla.edu/"
   location = "Los Angeles, California"
   date_start = "2020-10-01"
   date_end = ""
-  description = """
-  Responsibilities include:
+  description = """Undergraduate researcher at the Ozcan Research Group - UCLA Henry Samueli School of Engineering and Applied Science. Mentored by Jingxi Li
+  Research Interests include:
   
   * Deep Learning
   * Optics
@@ -33,12 +33,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
+  title = "Front-End Development Intern"
+  company = "​Chenyang Auto Trade Co. Ltd."
+  company_url = "http://www.chenyangqimao.cn/"
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2019-06-01"
+  date_end = "2019-08-01"
+  description = """Cooperated in a development team of four, responsible for UI functionality testing and front-end development."""
 
 +++
