@@ -21,11 +21,11 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  title = "Introduction to Artificial Intelligence (AI)"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
+  certificate_url = "https://coursera.org/share/ff5351f2e1dcf942b54afcfcf91acf02"
+  date_start = "2020-08-01"
+  date_end = "2020-08-24"
   description = ""
 
 [[item]]
