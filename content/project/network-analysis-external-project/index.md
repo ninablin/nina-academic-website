@@ -1,7 +1,7 @@
 ---
 title: Network Analysis Research
 #summary: An example of linking directly to an external project website using `external_link`.
-summary: In this project, we evaluated network structures and the information ecosystem of Twitter with a dataset of over 100k users from Kaggle. We conducted community detection,  network structural analysis, and influence estimation based on user behavior, hashtag content analysis, and several network analysis algorithms. 
+summary: In this project, we evaluated network structures and the information ecosystem of Twitter using Python and Gephi with a dataset of over 100k users from Kaggle. We conducted community detection, network structural analysis, and influence estimation based on user behavior, hashtag content analysis, and several network analysis algorithms. 
 
 tags:
 - webDev
