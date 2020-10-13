@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: HHMI & NSF Undergraduate Researcher
+role: HHMI & NSF Undergraduate Researcher | SWE UCLA
 
 # Organizations/Affiliations
 organizations:
