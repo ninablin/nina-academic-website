@@ -1,5 +1,6 @@
 ---
 title: Smart Parser
+subtitle = "Corporate & Personal projects"
 #summary: An example of linking directly to an external project website using `external_link`.
 summary: This is a resume parser website built using Vue.js, Node.js, and Lever's resume parsing API. Upload now to see how well your resume is read by the Application Tracking Systems of the companies.
 
