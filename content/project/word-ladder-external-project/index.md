@@ -1,7 +1,8 @@
 ---
 title: Word Ladder
 #summary: An example of linking directly to an external project website using `external_link`.
-summary: A word ladder puzzle has two words in the ladder, one at the bottom and one at the top. You need to form a sequence of words (a word ladder). On every step of the ladder, you must place a new one that only differs one letter from the previous word. You can download and play this classic game on the console.
+summary: The classic word ladder puzzle that for the given two words, you must place a new word which only differs one letter from the previous word. You can download and play this classic game on the console.
+
 
 tags:
 - webDev

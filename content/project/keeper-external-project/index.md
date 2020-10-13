@@ -1,7 +1,7 @@
 ---
 title: Keeper
 #summary: An example of linking directly to an external project website using `external_link`.
-summary: Keeper is a task management web app aiming to help improve productivity and plan and manage responsibilities over time. It was build using React.js and Material-UI, and MongoDB.
+summary: Keeper is a task management web app aiming to help improve productivity and manage responsibilities over time. It was build using React.js, Material-UI, and MongoDB.
 
 tags:
 - webDev
