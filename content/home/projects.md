@@ -31,7 +31,7 @@ subtitle = "Corporate & Personal projects"
   
   # [[content.filter_button]]
   #   name = "Web Development & Computer Science"
-  #   tag = "Demo"
+  #   tag = "webDev"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
