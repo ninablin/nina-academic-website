@@ -112,8 +112,8 @@ address = {city = "Long Beach", region = "CA", postcode = "90803", country = "Un
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "linkedin", icon_pack = "fab", link = "https://www.linkedin.com/in/bing-nina/"},
-  {icon = "github", icon_pack = "fab", link = "https://github.com/ninablin"},
+  {icon = "linkedin", icon_pack = "fab", name = "Linkedin Profile", link = "https://www.linkedin.com/in/bing-nina/"},
+  {icon = "github", icon_pack = "fab", name = "Github Profile", link = "https://github.com/ninablin"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
