@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Nina Bing Lin
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: HHMI & NSF Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of California, Los Angeles
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interest includes deep learning, optics, and network analysis. I am also a passionate full-stack developer.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Software Engineering
+- Full-Stack Development
+- Deep Learning
+- Computer Graphics
+- Network Analysis
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: B.S Mathematics of Computation
+    institution: University of California, Los Angeles
+    year: 2021 (Expected)
+  - course: A.S Computer Science and Mathematics
+    institution: Cañada College
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
