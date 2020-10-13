@@ -24,7 +24,8 @@ date_format = "Jan 2006"
   location = "Los Angeles, California"
   date_start = "2020-10-01"
   date_end = ""
-  description = """Undergraduate researcher at the Ozcan Research Group - UCLA Henry Samueli School of Engineering and Applied Science. Mentored by Jingxi Li
+  description = """Undergraduate researcher at the Ozcan Research Group - UCLA Henry Samueli School of Engineering and Applied Science. Mentored by Jingxi Li.
+  
   Research Interests include:
   
   * Deep Learning
@@ -36,9 +37,23 @@ date_format = "Jan 2006"
   title = "Front-End Development Intern"
   company = "​Chenyang Auto Trade Co. Ltd."
   company_url = "http://www.chenyangqimao.cn/"
-  location = "California"
+  location = "Hebei, China"
   date_start = "2019-06-01"
   date_end = "2019-08-01"
-  description = """Cooperated in a development team of four, responsible for UI functionality testing and front-end development."""
+  description = """
+  Cooperated in a development team of four, responsible for UI functionality testing and front-end development.
+  Re-designed the portal of Chenyang Auto to provide better support of product searching and listing and achieve a more user-friendly website and that has increased the number of clicks by 25% over a month.
+  Restructured the ABOUT page with JavaScript, HTML, and CSS to improve consistency of client-side user interface.
+  Developed a WeChat mini program serving information on local inventory and sales of 20+ local retail dealerships."""
 
+[[experience]]
+  title = "EPIC Leader & Tutor"
+  company = "​Cañada College STEM Center"
+  company_url = "https://canadacollege.edu/stemcenter/index.php"
+  location = "Redwood City, California"
+  date_start = "2019-12-01"
+  date_end = "2019-05-01"
+  description = """
+  Directed weekly workshop series with other EPIC leaders on Python and Matlab programming in mathematics and engineering research for over 30 STEM-major students in a 3-month long technical Bootcamp.
+  Conducted exam review sessions on discrete mathematics and data structures in C++ for a group of 20 students with positive reinforcement strategies and enhance the overall academic performance."""
 +++
