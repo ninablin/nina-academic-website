@@ -1,7 +1,7 @@
 ---
 title: Sudoku
 #summary: An example of linking directly to an external project website using `external_link`.
-summary: A single-player puzzle game that allows users to play the classic SUDOKU game on console. It has four different difficulty levels, and each level comes with ten distinct board patterns. The project was build with C++, Obj-C on Xcode.
+summary: A single-player puzzle game that you can download and play the classic SUDOKU game on console. It has four different difficulty levels, and each level comes with ten distinct board patterns. The project was build with C++, Obj-C on Xcode.
 
 tags:
 - webDev

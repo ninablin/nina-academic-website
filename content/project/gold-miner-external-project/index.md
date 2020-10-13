@@ -1,7 +1,7 @@
 ---
 title: Gold Miner
 #summary: An example of linking directly to an external project website using `external_link`.
-summary: Gold Miner is a desktop single-player puzzle game. It is a recreation of the classic play the "Gold Miner" with new themes, more levels, and more targets to mine. We used Qt Design Studio to design the user interface prototypes and developed the program in Qt Creator to realize the functionalities.
+summary: Gold Miner is a desktop single-player puzzle game. It is a recreation of the classic play "Gold Miner" with new themes, more levels, and more targets to mine. We used Qt Design Studio to design the user interface prototypes and developed the program using C++ and Qt Creator.
 
 tags:
 - webDev
