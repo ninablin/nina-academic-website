@@ -25,11 +25,9 @@ date_format = "Jan 2006"
   date_start = "2020-10-01"
   date_end = ""
   description = """Undergraduate researcher at the Ozcan Research Group - UCLA Henry Samueli School of Engineering and Applied Science. Mentored by Jingxi Li.
-  
   Research Interests include:
   
   * Deep Learning
-  * Optics
   * Machine Learning
   """
 
@@ -51,7 +49,7 @@ date_format = "Jan 2006"
   company = "​Cañada College STEM Center"
   company_url = "https://canadacollege.edu/stemcenter/index.php"
   location = "Redwood City, California"
-  date_start = "2019-12-01"
+  date_start = "2018-12-01"
   date_end = "2019-05-01"
   description = """
   Directed weekly workshop series with other EPIC leaders on Python and Matlab programming in mathematics and engineering research for over 30 STEM-major students in a 3-month long technical Bootcamp.
