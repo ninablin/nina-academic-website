@@ -70,6 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m now a fourth-year undergraduate student in the Mathematics Department at the University of California, Los Angeles(UCLA) majoring in Mathematics of Computation. I’m interested in Software Development, Front-end and Back-end design, Network Analysis, Machine Learning, and Data Science. I am open to all kinds of career opportunities. Please feel free to contact me via bingsz1370@g.ucla.edu
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
