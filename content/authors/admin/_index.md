@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Hi I am Nina Bing Lin, a senior undergrad at UCLA studying Mathematics of Computation, Undergraduate Researcher at UCLA Department of Electrical and Computer Engineering. I'm actively seeking winter and spring 2021 internship and full-time opportunities for entry-level SWE and web development jobs with positive social impacts and meaningful projects. You can reach me at bingsz1370@ucla.edu.
+Hi I am Nina, a senior undergrad at UCLA studying Mathematics of Computation, Undergraduate Researcher at UCLA Department of Electrical and Computer Engineering and also a passionate programmer. I'm actively seeking winter and spring 2021 internship and full-time opportunities for entry-level SWE and web development jobs with positive social impacts and meaningful projects. You can reach me at bingsz1370@ucla.edu.
