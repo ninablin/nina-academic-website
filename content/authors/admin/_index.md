@@ -70,5 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I’m now a fourth-year undergraduate student in the Mathematics Department at the University of California, Los Angeles(UCLA) majoring in Mathematics of Computation. I’m interested in Software Development, Front-end and Back-end design, Network Analysis, Machine Learning, and Data Science. I am open to all kinds of career opportunities. Please feel free to contact me via bingsz1370@g.ucla.edu
-
+Hi I am Nina Bing Lin, a senior undergrad at UCLA studying Mathematics of Computation, Undergraduate Researcher at UCLA Department of Electrical and Computer Engineering. I'm actively seeking winter and spring 2021 internship and full-time opportunities for entry-level SWE and web development jobs with positive social impacts and meaningful projects. You can reach me at bingsz1370@ucla.edu.
