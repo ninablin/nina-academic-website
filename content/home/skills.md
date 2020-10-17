@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Skills"
-subtitle = ""
+subtitle = ";/ these are the only ones that I can find an icon in Font Awsome, feel free to check out my resume to see more:) "
 
 # Showcase personal skills or business features.
 # 
