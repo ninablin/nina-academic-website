@@ -14,13 +14,60 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #      <i class="fab fa-bootstrap"></i>
+ [[feature]]
+  icon = "bootstrap"
+  icon_pack = "fab"
+  name = "bootstrap"
+#  description = "90%" 
+
 #     <i class="fab fa-node"></i>
+ [[feature]]
+  icon = "node"
+  icon_pack = "fab"
+  name = "node"
+#  description = "90%" 
+
 # <i class="fab fa-react"></i>
+ [[feature]]
+  icon = "react"
+  icon_pack = "fab"
+  name = "react"
+#  description = "90%" 
+
 #. <i class="fab fa-vuejs"></i>
+ [[feature]]
+  icon = "vuejs"
+  icon_pack = "fab"
+  name = "vuejs"
+#  description = "90%" 
+
 #   <i class="fab fa-python"></i>
+ [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "python"
+#  description = "90%" 
+
 #   <i class="fab fa-cuttlefish"></i>
+ [[feature]]
+  icon = "cuttlefish"
+  icon_pack = "fab"
+  name = "cuttlefish"
+#  description = "90%" 
+
 #   <i class="fab fa-java"></i>
+ [[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "java"
+#  description = "90%" 
+
 # <i class="fab fa-git"></i>
+ [[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "git"
+#  description = "90%" 
 
  [[feature]]
   icon = "html5"
